@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gulixueyuan.iml" filepath="$PROJECT_DIR$/gulixueyuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulixueyuan_common/gulixueyuan_common.iml" filepath="$PROJECT_DIR$/gulixueyuan_common/gulixueyuan_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulixueyuan_edu/gulixueyuan_edu.iml" filepath="$PROJECT_DIR$/gulixueyuan_edu/gulixueyuan_edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulixueyuan_ucenter/gulixueyuan_ucenter.iml" filepath="$PROJECT_DIR$/gulixueyuan_ucenter/gulixueyuan_ucenter.iml" />
+    </modules>
+  </component>
+</project>

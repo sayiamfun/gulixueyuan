@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gulixueyuan_common" />
+        <module name="gulixueyuan_edu" />
+        <module name="gulixueyuan_ucenter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gulixueyuan" target="1.8" />
+      <module name="gulixueyuan_aliyun" target="1.8" />
+      <module name="gulixueyuan_common" target="1.8" />
+      <module name="gulixueyuan_edu" target="1.8" />
+      <module name="gulixueyuan_ucenter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
